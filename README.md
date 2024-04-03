@@ -32,4 +32,20 @@
 -Github tools
 <br>
 
+## Images
+<em> Rules </em> <br>
+![choose image](./gamerules.png)
+
+<em> Choose theme </em> <br>
+![choose image](./choosetheme.png)
+
+<em> Start playing </em> <br>
+![choose image](./play.png)
+
+<em> Found  a pair! </em> <br>
+![choose image](./foundpair.png)
+
+
+
+
 
