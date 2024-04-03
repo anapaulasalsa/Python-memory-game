@@ -34,16 +34,16 @@
 
 ## Images
 <em> Rules </em> <br>
-![choose image](./gamerules.png)
+![choose image](./images/gamerules.png)
 
 <em> Choose theme </em> <br>
-![choose image](./choosetheme.png)
+![choose image](./images/choosetheme.png)
 
 <em> Start playing </em> <br>
-![choose image](./play.png)
+![choose image](./images/play.png)
 
 <em> Found  a pair! </em> <br>
-![choose image](./foundpair.png)
+![choose image](./images/foundpair.png)
 
 
 
